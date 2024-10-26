@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.head {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 80px;
+}
+
+.sap {
+    color: blue;
+}
+
+.mee {
+    color: white;
+}
+
+.mypic {
+    border-radius: 900px;
+    height: 300px;
+    width: 300px;
+}
+
+.css {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.img2 {
+    background-color: #323f4b;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.para {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+* {
+    font-family: "Roboto";
+}
+
+
+
+.head1 {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.head3 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.img {
+    height: 80px;
+    width: 90px;
+}
+
+.connect {
+    color: #cced00;
+}
+
+.cert {
+    height: 300px;
+    width: 300px;
+}
+
+
+.icon {
+    color: white;
+    background-color: #202b36;
+    padding: 10px;
+    border-radius: 40px;
+    margin-right: 6px;
+    text-align: center;
+    font-size: 15px;
+}
+.food
+{
+    height: 250px;
+    width: 250px;
+}
+.butt{
+    width:250px;
+}
